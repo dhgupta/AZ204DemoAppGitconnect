@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is demo of Git Connect to Azure, checking in chnges from Azure.
+            This is demo of Git Connect to Azure, checking in chnges from Azure
         </div>
     </form>
 </body>
